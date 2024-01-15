@@ -1,0 +1,14 @@
+C:\Users\jmens\source\repos\OOPall\OOPall\bin\Debug\net8.0\OOPall.exe
+C:\Users\jmens\source\repos\OOPall\OOPall\bin\Debug\net8.0\OOPall.deps.json
+C:\Users\jmens\source\repos\OOPall\OOPall\bin\Debug\net8.0\OOPall.runtimeconfig.json
+C:\Users\jmens\source\repos\OOPall\OOPall\bin\Debug\net8.0\OOPall.dll
+C:\Users\jmens\source\repos\OOPall\OOPall\bin\Debug\net8.0\OOPall.pdb
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\OOPall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\OOPall.AssemblyInfoInputs.cache
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\OOPall.AssemblyInfo.cs
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\OOPall.csproj.CoreCompileInputs.cache
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\OOPall.dll
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\refint\OOPall.dll
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\OOPall.pdb
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\OOPall.genruntimeconfig.cache
+C:\Users\jmens\source\repos\OOPall\OOPall\obj\Debug\net8.0\ref\OOPall.dll
